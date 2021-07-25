@@ -20,7 +20,7 @@ int main() {
     // 3. Create a variable called box2 of the Box structure type
     // int box2Height, box2Width, box2Length;
     struct Box box2;
-    
+
     //declaring variables
     int totalVolume;
     
@@ -28,7 +28,7 @@ int main() {
     cout << "Enter Box 1 Height : ";
     cin >> box1.height;
     cout << "Enter Box 1 Width : ";
-    cin >> box1.width;;
+    cin >> box1.width;
     cout << "Enter Box 1 Length : ";
     cin >> box1.length;
     
